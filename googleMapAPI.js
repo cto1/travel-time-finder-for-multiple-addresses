@@ -1,6 +1,6 @@
 var axios = require('axios');
 
-const GOOGLE_MAP_URL = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&key=AIzaSyCs347q2Ndi52Ghdz4qpy62knfEKWm4zuc';
+const GOOGLE_MAP_URL = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&key=';
 
 // API doc https://developers.google.com/maps/documentation/distance-matrix/intro
 
